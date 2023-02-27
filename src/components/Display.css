@@ -1,0 +1,23 @@
+.DisplayInput{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+.inputBox{
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0 0 5px 0;
+}
+
+.qrcode{
+    margin: 5px 0;
+}
+
+.submitButton{
+    margin: 5px 0 0 0;
+    border-radius: 5px;
+    width: max-content;
+}
